@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**abhiyanbhattarai/abhiyanbhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Data Science project (EDA). 
+- 🌱 I’m currently learning Python, DSA.
+- 👯 I’m looking to collaborate on  Data Science projects.
+- 🤔 I’m looking for help with Data Science.
+- 💬 Ask me about Python DSA.
+- 📫 How to reach me: abhiyanbhattarai88@gmail.com
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: Playing Cricket, Table Tennis
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiyanbhattarai&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyanbhattarai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
