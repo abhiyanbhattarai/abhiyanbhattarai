@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data Science project (EDA). 
 
-- 🌱 I’m currently learning Python, DSA.
+- 🌱 I’m currently learning Python, DSA, Machine Learning Algorithms.
 
 - 👯 I’m looking to collaborate on  Data Science projects.
 
@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: HE/HIM
 
-- ⚡ Fun fact: Love to play Table Tennis, Chess, Sudoko.
+- ⚡ Fun fact: Loves to play Table Tennis, Chess, Cricket, Sudoko.
 
 -->
 
