@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 [**Check out my portfolio**](https://abhiyanbhattarai.vercel.app/)
 
