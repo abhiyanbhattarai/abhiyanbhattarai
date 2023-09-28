@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Science project (EDA). 
+[Check out my portfolio](https://portfolio-abhiyanbhattarai.vercel.app/)
+
+- 🔭 I’m currently working on Data Science project (EDA).
 
 - 🌱 I’m currently learning Python, DSA, Machine Learning Algorithms.
 
