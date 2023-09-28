@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my portfolio(https://portfolio-abhiyanbhattarai.vercel.app/)
+[Check out my portfolio](https://portfolio-abhiyanbhattarai.vercel.app/)
 
 - 🔭 I’m currently working on Data Science project (EDA).
 
