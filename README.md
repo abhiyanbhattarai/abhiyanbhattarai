@@ -12,7 +12,7 @@
 
 - 💬 Ask me about Python DSA.
 
-- 📫 How to reach me: abhiyanbhattarai88@gmail.com
+- 📫 How to reach me: [Email](abhiyanbhattarai88@gmail.com) , [LinkedIn](https://www.linkedin.com/in/abhiyan-bhattarai-87224a23b)
 
 - 😄 Pronouns: HE/HIM
 
