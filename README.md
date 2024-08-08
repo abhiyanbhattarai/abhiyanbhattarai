@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&width=435&lines=HI!+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&width=435&lines=HI!+Welcome+to+my+GitHub." alt="Typing SVG" /></a>
 💼 [**Check out my portfolio**](https://abhiyanbhattarai.vercel.app/)
 
 - 🔭 I’m currently working on Data Science project (EDA).
