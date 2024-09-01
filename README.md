@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact: Loves to play Table Tennis, Chess, Cricket, Sudoko.
 
+- 📚 Reading Self-Improvement Books
+
 👉
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiyanbhattarai&show_icons=true&theme=radical)
